@@ -26,5 +26,3 @@ Si deseamos verificarlo podemos ejecutar el siguiente comando:
     color.diff=auto
     ...
 ```
-
-
